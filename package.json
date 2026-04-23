@@ -1,0 +1,27 @@
+{
+  "name": "linked-lists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch ./src/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroxzain/linked-lists.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heroxzain/linked-lists/issues"
+  },
+  "homepage": "https://github.com/heroxzain/linked-lists#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.2",
+    "jest": "^30.3.0",
+    "webpack": "^5.106.2",
+    "webpack-cli": "^7.0.2"
+  }
+}
